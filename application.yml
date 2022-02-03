@@ -3,6 +3,4 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
     service-url:
-      default-Zone: http://localhost:8761/eureka
-  instance:
-    hostname: localhost
+      default-Zone: https://rocky-refuge-02784.herokuapp.com/eureka
